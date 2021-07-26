@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/GleemingKnight/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/GleemingKnight/github-stats-transparent/output/generated/languages.svg)
